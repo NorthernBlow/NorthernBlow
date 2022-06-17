@@ -2,7 +2,7 @@
 
 <div id="badges">
 <a href="https://t.me/NorthernBlow">   
-  <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=red" alt="Telegram Badge"/>
   </a>  
 </div>
 
