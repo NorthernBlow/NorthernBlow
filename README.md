@@ -1,6 +1,7 @@
 ![Northern_Blow's github stats](https://github-readme-stats.vercel.app/api?username=NorthernBlow&theme=synthwave&show_icons=True)
 
-### Hi there 👋
+#Gonna fly, takin' my time, strip down to nothing
+#Gonna try, but there's no rest for the wicked
 
 <!--
 **NorthernBlow/NorthernBlow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
