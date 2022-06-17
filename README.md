@@ -1,7 +1,7 @@
 ![Northern_Blow's github stats](https://github-readme-stats.vercel.app/api?username=NorthernBlow&theme=synthwave&show_icons=True)
 
 <div id="badges">
-  <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Telegram Badge"/>
+  <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
 </div>
 
 ## Gonna fly, taking my time, strip down to nothing
