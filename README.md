@@ -1,5 +1,6 @@
+<div align=center>
 ![Northern_Blow's github stats](https://github-readme-stats.vercel.app/api?username=NorthernBlow&theme=synthwave&show_icons=True)
-
+</div>
 <div id="badges">
 <a href="https://t.me/NorthernBlow">   
   <img src="https://img.shields.io/badge/Telegram-magenta?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
