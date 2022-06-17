@@ -1,4 +1,4 @@
-![Northern_Blow's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)
+![Northern_Blow's github stats](https://github-readme-stats.vercel.app/api?username=NorthernBlow)
 
 ### Hi there 👋
 
