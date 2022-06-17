@@ -2,6 +2,7 @@
 
 <div id="badges">
   <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  <a href="https://t.me/NorthernBlow"> 
 </div>
 
 ## Gonna fly, taking my time, strip down to nothing
