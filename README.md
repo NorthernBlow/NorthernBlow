@@ -5,7 +5,7 @@
   </a>  
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NorthernBlow&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NorthernBlow&layout=compact&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Gonna fly high, taking my time, strip down to nothing
