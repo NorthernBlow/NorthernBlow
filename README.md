@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/Telegram-magenta?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>  
 </div>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NorthernBlow&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NorthernBlow&layout=compact&theme=vision-friendly-dark)(https://github.com/anuraghazra/github-readme-stats)
 
 ## Gonna fly high, taking my time, strip down to nothing
 ## Gonna try, but there's no rest for the wicked
