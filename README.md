@@ -7,8 +7,6 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NorthernBlow&layout=compact&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
-
 
 ## Gonna fly high, taking my time, strip down to nothing
 ## Gonna try, but there's no rest for the wicked
@@ -24,6 +22,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" wirth="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" title="PyQt5" alt="PyQT5" wirth="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" wirth="40" height="40"/>&nbsp;
+  
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NorthernBlow&layout=compact&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
