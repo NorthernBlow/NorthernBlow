@@ -1,3 +1,6 @@
+<div id="header" align="center">
+  <img src="https://user-images.githubusercontent.com/39205340/176749798-368165b8-6b2b-4279-8b26-2d7848d9cfcb.png>
+</div>
 ![Northern_Blow's github stats](https://github-readme-stats.vercel.app/api?username=NorthernBlow&theme=synthwave&show_icons=True)
 <div id="badges">
 <a href="https://t.me/NorthernBlow">   
