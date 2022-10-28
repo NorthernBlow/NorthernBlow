@@ -1,8 +1,10 @@
+<div>
 <p align="center">
 
 ![Northern_Blow's github stats](https://github-readme-stats.vercel.app/api?username=NorthernBlow&theme=synthwave&show_icons=True)
 
 </p>
+</div>
 
 <div id="badges">
 <a href="https://t.me/NorthernBlow">   
