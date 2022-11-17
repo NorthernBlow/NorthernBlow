@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=getent+passwd+|+grep+root;Svyatoslav_Rheinhart+/home/localhost/....)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?color=03A062&font=VT323&lines=getent+passwd+|+grep+root;/home/NorthernBlow/....)](https://git.io/typing-svg)
 
 <div>
 <p align="center">
