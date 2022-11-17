@@ -6,7 +6,7 @@
 </p>
 </div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Svyatoslav+Rheinhart)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=getent+passwd+|+grep+root;Svyatoslav+Rheinhart+/home/bin/bash)](https://git.io/typing-svg)
 
 
 <div id="badges">
