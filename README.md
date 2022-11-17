@@ -6,6 +6,9 @@
 </p>
 </div>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Svyatoslav+Rheinhart)](https://git.io/typing-svg)
+
+
 <div id="badges">
 <a href="https://t.me/NorthernBlow">   
   <img src="https://img.shields.io/badge/Telegram-magenta?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
