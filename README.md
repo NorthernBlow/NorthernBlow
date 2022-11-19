@@ -8,9 +8,7 @@
 
 ---
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NorthernBlow&theme=monokai) 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NorthernBlow&theme=monokai)![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=NorthernBlow&theme=monokai) 
 
 ![Example](https://github.com/NorthernBlow/githubstats/blob/master/github_stats.svg)
 
