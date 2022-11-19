@@ -2,18 +2,23 @@
 
 <div id="badges">
 <a href="https://t.me/NorthernBlow">   
-  <img src="https://img.shields.io/badge/Telegram-ff0000?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  <img src="https://img.shields.io/badge/Telegram-EB1F6A?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>  
 </div>
 
-
 ---
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NorthernBlow&theme=2077) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NorthernBlow&theme=monokai) 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NorthernBlow&theme=2077)![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=NorthernBlow&theme=2077) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NorthernBlow&theme=monokai)![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=NorthernBlow&theme=monokai) 
+
+![Example](https://github.com/NorthernBlow/githubstats/blob/master/github_stats.svg)
+
+
 
 [![My Last.fm](https://lastfm-recently-played.vercel.app/api?user=Accept_the_Pain&count=1&loved=true)](https://www.last.fm/user/Accept_the_Pain)
+
+
 
 
 ### Languages and Tools :
