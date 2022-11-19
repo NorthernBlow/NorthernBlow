@@ -9,9 +9,9 @@
 
 ---
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NorthernBlow&theme=tokyonight) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NorthernBlow&theme=2077) 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NorthernBlow&theme=tokyonight)![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=NorthernBlow&theme=tokyonight) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NorthernBlow&theme=2077)![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=NorthernBlow&theme=2077) 
 
 [![My Last.fm](https://lastfm-recently-played.vercel.app/api?user=Accept_the_Pain&count=1&loved=true)](https://www.last.fm/user/Accept_the_Pain)
 
