@@ -14,7 +14,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NorthernBlow&theme=tokyonight)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NorthernBlow&theme=tokyonight)           
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=NorthernBlow&theme=tokyonight) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NorthernBlow&theme=tokyonight&utcOffset=3) 
 ​                             
-
+![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=Accept_the_Pain)
 
 
 ### Languages and Tools :
