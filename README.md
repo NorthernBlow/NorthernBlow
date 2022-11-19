@@ -1,13 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?color=03A062&font=VT323&lines=getent+passwd+|+grep+root;...:/NorthernBlow:/bin/bash)](https://git.io/typing-svg)
 
-<div>
-<p align="center">
-
-![Northern_Blow's github stats](https://github-readme-stats.vercel.app/api?username=NorthernBlow&theme=synthwave&show_icons=True)
-
-</p>
-</div>
-
 
 <div id="badges">
 <a href="https://t.me/NorthernBlow">   
@@ -17,11 +9,13 @@
 
 ---
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NorthernBlow&theme=tokyonight) 
 
-## Gonna fly high, taking my time, strip down to nothing
-## Gonna try, but there's no rest for the wicked
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NorthernBlow&theme=tokyonight)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NorthernBlow&theme=tokyonight)           
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=NorthernBlow&theme=tokyonight) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NorthernBlow&theme=tokyonight&utcOffset=8) 
+​                             
 
----
+
 
 ### Languages and Tools :
 
