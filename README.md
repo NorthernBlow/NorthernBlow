@@ -1,11 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?color=03A062&font=VT323&lines=getent+passwd+|+grep+root;...:/NorthernBlow:/bin/bash)](https://git.io/typing-svg)
 
-
 <div id="badges">
 <a href="https://t.me/NorthernBlow">   
-  <img src="https://img.shields.io/badge/Telegram-magenta?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  <img src="https://img.shields.io/badge/Telegram-ff0000?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>  
 </div>
+
 
 ---
 
