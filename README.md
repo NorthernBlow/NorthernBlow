@@ -17,10 +17,10 @@
 [![](https://img.shields.io/badge/Last.fm-Accept_the_pain-D51007?logo=last.fm&logoColor=white&style=flat-square)](https://www.last.fm/user/Accept_the_Pain)
 
 
----
+
 ### Languages and Tools :
 
-<div>
+<div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg" title="bash" alt="bash" wirth="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg" title="Lua" alt="Lua" wirth="40" height="40"/>&nbsp;
   <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/archlinux.svg" title="ArchLinux" alt="ArchLinux" wirth="40" height="40"/>&nbsp;
