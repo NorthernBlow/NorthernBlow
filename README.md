@@ -1,4 +1,4 @@
-<div id="badges" align="center>
+<div align="center" id="badges">
 <a href="https://t.me/NorthernBlow">   
   <img src="https://img.shields.io/badge/Telegram-EB1F6A?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>  
