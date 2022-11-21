@@ -18,8 +18,6 @@
 
 
 
-### Languages and Tools :
-
 <div align="center">
 <h3
 <p> Languages and Tools : </p>
