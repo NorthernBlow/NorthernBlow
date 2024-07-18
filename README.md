@@ -7,7 +7,9 @@
 ---
 
 <div align="center">
+  
 [![My Last.fm](https://lastfm-recently-played.vercel.app/api?user=Accept_the_Pain&count=1&loved=true)](https://www.last.fm/user/Accept_the_Pain)
+
 </div>
 
 [![](https://img.shields.io/badge/Last.fm-Accept_the_pain-D51007?logo=last.fm&logoColor=white&style=flat-square)](https://www.last.fm/user/Accept_the_Pain)
