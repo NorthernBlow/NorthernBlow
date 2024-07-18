@@ -4,6 +4,8 @@
   </a>  
 </div>
 
+<p>Hello! My name is Svyatoslav Rheinhart and i am certified linux systemd administrator. Sometimes i like to code on python and Lua. Sometime learn cybersec and making photos PS and Darktable </p>
+
 ---
 
 <div align="center">
