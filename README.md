@@ -12,10 +12,12 @@
 
 </div>
 
+<div align="center">
+
 [![](https://img.shields.io/badge/Last.fm-Accept_the_pain-D51007?logo=last.fm&logoColor=white&style=flat-square)](https://www.last.fm/user/Accept_the_Pain)
 [![](https://img.shields.io/badge/Soundcloud-Northern_Blow-FF7700?logo=soundcloud&logoColor=white&style=flat-square)](https://soundcloud.com/tqkqbulmnkgb)
 
-
+</div>
 
 <div align="center">
 <h3
