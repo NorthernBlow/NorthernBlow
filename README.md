@@ -6,7 +6,7 @@
 
 ---
 
-<p>Hello! My name is Svyatoslav Rheinhart, and I am a certified Linux system administrator. Sometimes, I enjoy coding in Python and Lua. I also like to learn about cybersecurity and create photos using Photoshop and Darktable.</p>
+<p>Hello!..</p>
 
 ---
 
