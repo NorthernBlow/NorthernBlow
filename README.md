@@ -27,7 +27,7 @@
 <h3
 <p> Languages and Tools : </p>
 </h3>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vagrant/vagrant-plain-wordmark.svg" title="Vagrant" alt="Vagrant" wirth="40" height="40"/>&nbsp;
+  <img src='https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg' title="Terraform" alt="Terraform" width-"40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="NGINX" alt="NGINX" wirth="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/k3s/k3s-original-wordmark.svg" title="Kubernetes" alt="Kubernetes" wirth="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg" title="Ansible" alt="Ansible" wirth="40" height="40"/>&nbsp;
