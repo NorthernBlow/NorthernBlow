@@ -22,7 +22,7 @@
 [![](https://img.shields.io/badge/Soundcloud-Northern_Blow-FF7700?logo=soundcloud&logoColor=white&style=flat-square)](https://soundcloud.com/tqkqbulmnkgb)
 
 </div>
-
+<!--
 <div align="center">
 <h3
 <p> Languages and Tools : </p>
@@ -43,3 +43,4 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" wirth="40" height="40"/>&nbsp;
 </h3>
 </div>
+-->
